@@ -1,4 +1,4 @@
-# Simon Says Game 🎮
+# Simon Says Game 
 
 A frontend-based memory game built with **HTML, CSS, and JavaScript**.  
 Features:
